@@ -1,0 +1,35 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 8
+    }
+  ],
+  "catalyst": "minecraft:book",
+  "components": [
+    "minecraft:iron_pickaxe",
+    "minecraft:lava_bucket",
+    "thaumaturge:salis_mundus"
+  ],
+  "instability": 3,
+  "research": {
+    "entry": "forbidden:consuming"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "forbidden:consuming": 1
+      }
+    }
+  }
+}

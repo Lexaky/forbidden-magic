@@ -1,0 +1,11 @@
+{
+  "tag": "desidia",
+  "color": 7237230,
+  "components": [
+    "thaumaturge:vinculum",
+    "thaumaturge:spiritus"
+  ],
+  "chat_color": "8",
+  "texture": "forbidden:textures/aspects/desidia.png",
+  "blend": 771
+}

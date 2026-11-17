@@ -1,0 +1,47 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.blink_upgrades.title",
+  "column": -6,
+  "row": 0,
+  "icons": [
+    "focus:forbidden:hellfire"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.blink_upgrades.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.blink_upgrades.stage_1"
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forbidden:nether_shards",
+    "thaumaturge:focus_blink"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 3
+    },
+    {
+      "aspect": "forbidden:infernus",
+      "amount": 3
+    },
+    {
+      "aspect": "forbidden:desidia",
+      "amount": 6
+    }
+  ]
+}

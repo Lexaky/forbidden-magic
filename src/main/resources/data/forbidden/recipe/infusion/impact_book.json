@@ -1,0 +1,32 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 16
+    }
+  ],
+  "catalyst": "minecraft:book",
+  "components": [
+    "thaumaturge:salis_mundus",
+    "forbidden:envy_shard",
+    "forbidden:envy_shard",
+    "thaumaturge:elemental_shovel"
+  ],
+  "instability": 4,
+  "research": {
+    "entry": "forbidden:impact"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "forbidden:impact": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "forbidden:infernus",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 16
+    }
+  ],
+  "catalyst": "minecraft:book",
+  "components": [
+    "minecraft:golden_sword",
+    "minecraft:diamond",
+    "forbidden:greed_shard",
+    "forbidden:greed_shard",
+    "thaumaturge:salis_mundus"
+  ],
+  "instability": 4,
+  "research": {
+    "entry": "forbidden:capitalist"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "forbidden:capitalist": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "forbidden:morph_pickaxe",
+    "forbidden:morph_sword",
+    "forbidden:morph_shovel",
+    "forbidden:morph_axe"
+  ]
+}

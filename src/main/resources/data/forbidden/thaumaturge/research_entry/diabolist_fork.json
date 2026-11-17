@@ -1,0 +1,47 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.diabolist_fork.title",
+  "column": -1,
+  "row": -4,
+  "icons": [
+    "forbidden:diabolist_fork"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.diabolist_fork.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.diabolist_fork.stage_1",
+      "recipes": [
+        "forbidden:infusion/diabolist_fork"
+      ]
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "thaumaturge:infusion",
+    "forbidden:nether_shards",
+    "thaumaturge:metallurgy"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "forbidden:infernus",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:machina",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 1
+    }
+  ]
+}

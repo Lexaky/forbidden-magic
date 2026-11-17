@@ -1,0 +1,11 @@
+{
+  "tag": "ira",
+  "color": 8848388,
+  "components": [
+    "thaumaturge:aversio",
+    "thaumaturge:ignis"
+  ],
+  "chat_color": "4",
+  "texture": "forbidden:textures/aspects/ira.png",
+  "blend": 771
+}

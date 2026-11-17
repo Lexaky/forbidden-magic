@@ -1,0 +1,13 @@
+{
+  "aspect": "forbidden:infernus",
+  "behavior": {
+    "type": "forbidden:hellfire"
+  },
+  "color": 16729088,
+  "complexity": 5,
+  "icon": "forbidden:textures/foci/hellfire.png",
+  "max_per_spell": 1,
+  "research": {
+    "entry": "forbidden:blink_upgrades"
+  }
+}

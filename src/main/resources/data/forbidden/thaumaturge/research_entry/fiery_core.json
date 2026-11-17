@@ -1,0 +1,46 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.fiery_core.title",
+  "column": -5,
+  "row": 2,
+  "icons": [
+    "forbidden:textures/research/lucrative.png"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.fiery_core.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.fiery_core.stage_1",
+      "recipes": [
+        "forbidden:infusion/fiery_core_book"
+      ]
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forbidden:morph_tools",
+    "thaumaturge:elemental_tools"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:metallum",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 4
+    },
+    {
+      "aspect": "forbidden:invidia",
+      "amount": 3
+    }
+  ]
+}

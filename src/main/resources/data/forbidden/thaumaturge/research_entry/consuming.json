@@ -1,0 +1,45 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.consuming.title",
+  "column": 1,
+  "row": -5,
+  "icons": [
+    "forbidden:textures/research/consuming.png"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.consuming.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.consuming.stage_1",
+      "recipes": [
+        "forbidden:infusion/consuming_book"
+      ]
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "thaumaturge:infusion_enchantment"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 2
+    }
+  ]
+}

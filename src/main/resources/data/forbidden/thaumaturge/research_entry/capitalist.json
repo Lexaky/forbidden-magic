@@ -1,0 +1,46 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.capitalist.title",
+  "column": -1,
+  "row": -2,
+  "icons": [
+    "forbidden:textures/research/greedy.png"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.capitalist.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.capitalist.stage_1",
+      "recipes": [
+        "forbidden:infusion/capitalist_book"
+      ]
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forbidden:nether_shards",
+    "thaumaturge:infusion_enchantment"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 3
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.taint_tree.title",
+  "column": -6,
+  "row": 6,
+  "icons": [
+    "forbidden:taint_sapling"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.taint_tree.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.taint_tree.stage_1",
+      "recipes": [
+        "forbidden:crucible/taint_sapling",
+        "forbidden:taint_planks",
+        "forbidden:taint_coal"
+      ],
+      "warp": 1
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "thaumaturge:metallurgy",
+    "thaumaturge:infusion",
+    "thaumaturge:ethereal_bloom"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:herba",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:vitium",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:mortuus",
+      "amount": 2
+    }
+  ]
+}

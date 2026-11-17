@@ -1,0 +1,26 @@
+{
+  "type": "thaumaturge:arcane_workbench_shapeless",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 1
+    }
+  ],
+  "ingredients": [
+    "thaumaturge:scribing_tools",
+    "#c:dyes/black",
+    "thaumaturge:essentia_crystal",
+    "thaumaturge:essentia_crystal"
+  ],
+  "research": {
+    "entry": "forbidden:crystalwell"
+  },
+  "result": {
+    "id": "forbidden:crystalwell"
+  },
+  "vis": 10
+}

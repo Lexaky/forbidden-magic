@@ -1,0 +1,55 @@
+{
+  "variants": {
+    "axis=y": [
+      {
+        "model": "forbidden:block/taint_log",
+        "weight": 75
+      },
+      {
+        "model": "forbidden:block/taint_log_gross",
+        "weight": 12
+      },
+      {
+        "model": "forbidden:block/taint_log_gross2",
+        "weight": 13
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "forbidden:block/taint_log_horizontal",
+        "weight": 75,
+        "x": 90
+      },
+      {
+        "model": "forbidden:block/taint_log_gross_horizontal",
+        "weight": 12,
+        "x": 90
+      },
+      {
+        "model": "forbidden:block/taint_log_gross2_horizontal",
+        "weight": 13,
+        "x": 90
+      }
+    ],
+    "axis=x": [
+      {
+        "model": "forbidden:block/taint_log_horizontal",
+        "weight": 75,
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "forbidden:block/taint_log_gross_horizontal",
+        "weight": 12,
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "forbidden:block/taint_log_gross2_horizontal",
+        "weight": 13,
+        "x": 90,
+        "y": 90
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.taint_shovel.title",
+  "column": -3,
+  "row": 4,
+  "icons": [
+    "forbidden:taint_shovel"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.taint_shovel.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.taint_shovel.stage_1",
+      "recipes": [
+        "forbidden:infusion/taint_shovel"
+      ]
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "thaumaturge:metallurgy",
+    "thaumaturge:infusion",
+    "thaumaturge:ethereal_bloom"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:vitium",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.wrath_cage.title",
+  "column": -1,
+  "row": -6,
+  "icons": [
+    "forbidden:wrath_cage"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.wrath_cage.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.wrath_cage.stage_1",
+      "recipes": [
+        "forbidden:infusion/wrath_cage",
+        "forbidden:crucible/mob_crystal"
+      ],
+      "warp": 3
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forbidden:diabolist_fork",
+    "~thaumaturge:infusion",
+    "~thaumaturge:metallurgy",
+    "~thaumaturge:essentia_smelter"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "forbidden:ira",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:machina",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:bestia",
+      "amount": 2
+    }
+  ]
+}

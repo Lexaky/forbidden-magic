@@ -1,0 +1,48 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.rod_infernal.title",
+  "column": -6,
+  "row": -1,
+  "icons": [
+    "forbidden:wand_rod_infernal"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.rod_infernal.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.rod_infernal.stage_1",
+      "recipes": [
+        "forbidden:infusion/wand_rod_infernal"
+      ],
+      "warp": 2
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "thaumaturge:rod_silverwood",
+    "thaumaturge:infusion",
+    "forbidden:nether_shards"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "forbidden:infernus",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 1
+    }
+  ]
+}

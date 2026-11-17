@@ -1,0 +1,43 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.black_flower.title",
+  "column": 3,
+  "row": -3,
+  "icons": [
+    "forbidden:umbral_rose"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.black_flower.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.black_flower.stage_1",
+      "recipes": [
+        "forbidden:crucible/umbral_bush",
+        "forbidden:black_ink"
+      ]
+    }
+  ],
+  "complexity": 1,
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:herba",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:sensus",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 4
+    }
+  ]
+}

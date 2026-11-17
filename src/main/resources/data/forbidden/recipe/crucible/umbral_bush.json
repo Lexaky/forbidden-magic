@@ -1,0 +1,20 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:victus",
+      "amount": 5
+    }
+  ],
+  "catalyst": "minecraft:rose_bush",
+  "research": {
+    "entry": "forbidden:black_flower"
+  },
+  "result": {
+    "id": "forbidden:umbral_bush"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.ring_nutrition.title",
+  "column": -6,
+  "row": -3,
+  "icons": [
+    "forbidden:ring_nutrition"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.ring_nutrition.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.ring_nutrition.stage_1",
+      "recipes": [
+        "forbidden:arcane/ring_nutrition"
+      ]
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forbidden:nether_shards"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "forbidden:gula",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:victus",
+      "amount": 2
+    }
+  ]
+}

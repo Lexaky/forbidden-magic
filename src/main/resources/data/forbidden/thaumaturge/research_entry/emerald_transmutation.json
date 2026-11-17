@@ -1,0 +1,45 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.emerald_transmutation.title",
+  "column": 5,
+  "row": -3,
+  "icons": [
+    "forbidden:emerald_nugget"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.emerald_transmutation.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.emerald_transmutation.stage_1",
+      "recipes": [
+        "forbidden:crucible/emerald_transmutation"
+      ]
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "thaumaturge:metal_purification"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 4
+    }
+  ]
+}

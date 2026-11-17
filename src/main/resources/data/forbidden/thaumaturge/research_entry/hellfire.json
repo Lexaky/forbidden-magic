@@ -1,0 +1,45 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.hellfire.title",
+  "column": -3,
+  "row": -5,
+  "icons": [
+    "minecraft:fire_charge"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.hellfire.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.hellfire.stage_1"
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "forbidden:nether_shards"
+  ],
+  "meta": [
+    "round"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 3
+    },
+    {
+      "aspect": "forbidden:infernus",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 2
+    }
+  ]
+}

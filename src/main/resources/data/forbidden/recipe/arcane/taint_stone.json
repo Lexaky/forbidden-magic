@@ -1,0 +1,30 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 1
+    }
+  ],
+  "key": {
+    "S": "minecraft:stone",
+    "X": "#forbidden:taint_resources"
+  },
+  "pattern": [
+    "SSS",
+    "SXS",
+    "SSS"
+  ],
+  "research": {
+    "entry": "forbidden:taint_stone"
+  },
+  "result": {
+    "id": "forbidden:taint_stone",
+    "count": 9
+  },
+  "vis": 10
+}

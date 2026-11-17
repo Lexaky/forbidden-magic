@@ -1,0 +1,10 @@
+{
+  "tag": "gula",
+  "color": 13999174,
+  "components": [
+    "thaumaturge:desiderium",
+    "thaumaturge:vacuos"
+  ],
+  "chat_color": "6",
+  "texture": "forbidden:textures/aspects/gula.png"
+}

@@ -1,0 +1,55 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.sub_collar.title",
+  "column": -6,
+  "row": -2,
+  "icons": [
+    "forbidden:sub_collar"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.sub_collar.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.sub_collar.stage_1",
+      "recipes": [
+        "forbidden:infusion/sub_collar"
+      ]
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forbidden:nether_shards",
+    "thaumaturge:vis_amulet",
+    "thaumaturge:infusion"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 3
+    },
+    {
+      "aspect": "forbidden:luxuria",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:vinculum",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:bestia",
+      "amount": 4
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tag": "invidia",
+  "color": 47616,
+  "components": [
+    "thaumaturge:sensus",
+    "thaumaturge:desiderium"
+  ],
+  "chat_color": "2",
+  "texture": "forbidden:textures/aspects/invidia.png"
+}

@@ -1,0 +1,24 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "translate": "enchantment.forbidden.consuming"
+  },
+  "effects": {},
+  "max_cost": {
+    "base": 55,
+    "per_level_above_first": 11
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 11
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#forbidden:enchantable/consuming",
+  "weight": 1,
+  "exclusive_set": [
+    "minecraft:silk_touch"
+  ]
+}

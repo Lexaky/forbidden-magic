@@ -1,0 +1,46 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.arcane_cake.title",
+  "column": -7,
+  "row": -3,
+  "icons": [
+    "forbidden:arcane_cake"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.arcane_cake.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.arcane_cake.stage_1",
+      "recipes": [
+        "forbidden:infusion/arcane_cake"
+      ]
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forbidden:nether_shards",
+    "thaumaturge:infusion"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "forbidden:gula",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:fabrico",
+      "amount": 2
+    }
+  ]
+}

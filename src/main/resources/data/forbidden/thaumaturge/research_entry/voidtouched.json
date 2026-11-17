@@ -1,0 +1,51 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.voidtouched.title",
+  "column": -3,
+  "row": 2,
+  "icons": [
+    "forbidden:textures/research/voidtouched.png"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.voidtouched.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.voidtouched.stage_1",
+      "recipes": [
+        "forbidden:infusion/voidtouched_book"
+      ],
+      "warp": 3
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forbidden:morph_tools",
+    "thaumaturge:base_eldritch"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:fabrico",
+      "amount": 8
+    },
+    {
+      "aspect": "forbidden:invidia",
+      "amount": 32
+    }
+  ]
+}

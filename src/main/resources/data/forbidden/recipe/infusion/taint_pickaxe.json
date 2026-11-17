@@ -1,0 +1,47 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:vitium",
+      "amount": 12
+    }
+  ],
+  "catalyst": "thaumaturge:thaumium_pickaxe",
+  "components": [
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:perditio"
+        }
+      },
+      "items": "thaumaturge:essentia_crystal"
+    },
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:perditio"
+        }
+      },
+      "items": "thaumaturge:essentia_crystal"
+    },
+    "minecraft:diamond",
+    "#thaumaturge:greatwood_logs"
+  ],
+  "instability": 1,
+  "research": {
+    "entry": "forbidden:taint_pickaxe"
+  },
+  "result": {
+    "id": "forbidden:taint_pickaxe"
+  }
+}

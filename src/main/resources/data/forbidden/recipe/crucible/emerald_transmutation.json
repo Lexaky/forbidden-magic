@@ -1,0 +1,21 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 2
+    }
+  ],
+  "catalyst": "#c:nuggets/emerald",
+  "research": {
+    "entry": "forbidden:emerald_transmutation"
+  },
+  "result": {
+    "id": "forbidden:emerald_nugget",
+    "count": 4
+  }
+}

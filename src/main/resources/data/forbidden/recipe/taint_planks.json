@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    "forbidden:taint_log"
+  ],
+  "result": {
+    "id": "forbidden:taint_planks",
+    "count": 4
+  }
+}

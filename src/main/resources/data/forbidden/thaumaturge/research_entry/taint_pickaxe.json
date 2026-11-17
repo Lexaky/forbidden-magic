@@ -1,0 +1,46 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.taint_pickaxe.title",
+  "column": -5,
+  "row": 4,
+  "icons": [
+    "forbidden:taint_pickaxe"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.taint_pickaxe.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.taint_pickaxe.stage_1",
+      "recipes": [
+        "forbidden:infusion/taint_pickaxe"
+      ]
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "thaumaturge:metallurgy",
+    "thaumaturge:infusion"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:vitium",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 3
+    }
+  ]
+}

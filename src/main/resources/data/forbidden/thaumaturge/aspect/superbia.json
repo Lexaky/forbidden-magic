@@ -1,0 +1,10 @@
+{
+  "tag": "superbia",
+  "color": 9845247,
+  "components": [
+    "thaumaturge:volatus",
+    "thaumaturge:vacuos"
+  ],
+  "chat_color": "5",
+  "texture": "forbidden:textures/aspects/superbia.png"
+}

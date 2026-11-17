@@ -1,0 +1,45 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.educational.title",
+  "column": 1,
+  "row": -4,
+  "icons": [
+    "forbidden:textures/research/educational.png"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.educational.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.educational.stage_1",
+      "recipes": [
+        "forbidden:infusion/educational_book"
+      ]
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "thaumaturge:infusion_enchantment"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 3
+    }
+  ]
+}

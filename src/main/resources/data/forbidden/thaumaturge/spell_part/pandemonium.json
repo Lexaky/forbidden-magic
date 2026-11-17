@@ -1,0 +1,13 @@
+{
+  "aspect": "forbidden:desidia",
+  "behavior": {
+    "type": "forbidden:pandemonium"
+  },
+  "color": 7237230,
+  "complexity": 5,
+  "icon": "forbidden:textures/foci/pandemonium.png",
+  "max_per_spell": 1,
+  "research": {
+    "entry": "forbidden:blink_upgrades"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "thaumaturge:arcane_workbench_shaped",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 1
+    }
+  ],
+  "key": {
+    "D": "minecraft:diamond",
+    "S": "forbidden:gluttony_shard",
+    "X": "thaumaturge:ring_mundane"
+  },
+  "pattern": [
+    " D ",
+    "SXS",
+    " S "
+  ],
+  "research": {
+    "entry": "forbidden:ring_nutrition"
+  },
+  "result": {
+    "id": "forbidden:ring_nutrition"
+  },
+  "vis": 50
+}

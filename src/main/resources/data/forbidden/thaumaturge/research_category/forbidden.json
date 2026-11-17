@@ -1,0 +1,35 @@
+{
+  "background": "forbidden:textures/research/runecircle.png",
+  "formula": [
+    {
+      "aspect": "forbidden:infernus",
+      "amount": 20
+    },
+    {
+      "aspect": "forbidden:ira",
+      "amount": 10
+    },
+    {
+      "aspect": "forbidden:invidia",
+      "amount": 10
+    },
+    {
+      "aspect": "forbidden:superbia",
+      "amount": 10
+    },
+    {
+      "aspect": "forbidden:desidia",
+      "amount": 5
+    },
+    {
+      "aspect": "forbidden:gula",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:vitium",
+      "amount": 5
+    }
+  ],
+  "icon": "forbidden:textures/research/forbidden.png",
+  "index": 10
+}

@@ -1,0 +1,48 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.taint_stone.title",
+  "column": -5,
+  "row": 6,
+  "icons": [
+    "forbidden:taint_stone"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.taint_stone.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.taint_stone.stage_1",
+      "recipes": [
+        "forbidden:arcane/taint_stone",
+        "forbidden:taint_stone_bricks"
+      ]
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "thaumaturge:metallurgy",
+    "thaumaturge:infusion",
+    "thaumaturge:ethereal_bloom"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:vitium",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 2
+    }
+  ]
+}

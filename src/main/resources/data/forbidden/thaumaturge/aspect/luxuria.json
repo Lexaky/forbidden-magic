@@ -1,0 +1,10 @@
+{
+  "tag": "luxuria",
+  "color": 16761294,
+  "components": [
+    "thaumaturge:bestia",
+    "thaumaturge:desiderium"
+  ],
+  "chat_color": "d",
+  "texture": "forbidden:textures/aspects/luxuria.png"
+}

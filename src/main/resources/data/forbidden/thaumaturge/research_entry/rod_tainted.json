@@ -1,0 +1,48 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.rod_tainted.title",
+  "column": -3,
+  "row": 6,
+  "icons": [
+    "forbidden:wand_rod_tainted"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.rod_tainted.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.rod_tainted.stage_1",
+      "recipes": [
+        "forbidden:infusion/wand_rod_tainted"
+      ],
+      "warp": 2
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "thaumaturge:rod_silverwood",
+    "forbidden:taint_shovel",
+    "thaumaturge:infusion"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:vitium",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 2
+    }
+  ]
+}

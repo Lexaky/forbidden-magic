@@ -1,0 +1,22 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.riding_crop.title",
+  "column": 5,
+  "row": -5,
+  "icons": [
+    "forbidden:riding_crop"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.riding_crop.stage_0",
+      "recipes": [
+        "forbidden:riding_crop"
+      ]
+    }
+  ],
+  "complexity": 1,
+  "meta": [
+    "autounlock",
+    "round"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "forbidden:taint_shard",
+    {
+      "id": "thaumaturge:tainted_goo",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "forbidden:luxuria",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:vinculum",
+      "amount": 8
+    },
+    {
+      "aspect": "forbidden:infernus",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:bestia",
+      "amount": 4
+    }
+  ],
+  "catalyst": "thaumaturge:amulet_vis_crafted",
+  "components": [
+    "forbidden:lust_shard",
+    "forbidden:lust_shard",
+    "forbidden:lust_shard",
+    "minecraft:lead",
+    "thaumaturge:girdle_mundane"
+  ],
+  "instability": 1,
+  "research": {
+    "entry": "forbidden:sub_collar"
+  },
+  "result": {
+    "id": "forbidden:sub_collar"
+  }
+}

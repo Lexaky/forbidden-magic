@@ -1,0 +1,34 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "forbidden:infernus",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 12
+    },
+    {
+      "aspect": "forbidden:superbia",
+      "amount": 12
+    }
+  ],
+  "catalyst": "minecraft:blaze_rod",
+  "components": [
+    "thaumaturge:salis_mundus",
+    "forbidden:pride_shard",
+    "forbidden:pride_shard",
+    "minecraft:soul_sand",
+    "minecraft:wither_skeleton_skull",
+    "minecraft:quartz",
+    "minecraft:blaze_powder"
+  ],
+  "instability": 5,
+  "research": {
+    "entry": "forbidden:rod_infernal"
+  },
+  "result": {
+    "id": "forbidden:wand_rod_infernal"
+  }
+}

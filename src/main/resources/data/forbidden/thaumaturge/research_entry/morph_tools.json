@@ -1,0 +1,51 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.morph_tools.title",
+  "column": -4,
+  "row": 0,
+  "icons": [
+    "forbidden:morph_pickaxe"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.morph_tools.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.morph_tools.stage_1",
+      "recipes": [
+        "forbidden:infusion/morph_pickaxe",
+        "forbidden:infusion/morph_sword",
+        "forbidden:infusion/morph_shovel",
+        "forbidden:infusion/morph_axe"
+      ],
+      "warp": 4
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forbidden:nether_shards",
+    "~thaumaturge:metallurgy",
+    "~thaumaturge:infusion_enchantment"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 2
+    },
+    {
+      "aspect": "forbidden:invidia",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 2
+    }
+  ]
+}

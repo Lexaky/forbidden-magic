@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "forbidden:taint_shovel",
+    "forbidden:morph_shovel"
+  ]
+}

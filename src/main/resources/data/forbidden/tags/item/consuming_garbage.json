@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dirt",
+    "#c:sands",
+    "minecraft:gravel",
+    "#c:cobblestones",
+    "minecraft:netherrack"
+  ]
+}

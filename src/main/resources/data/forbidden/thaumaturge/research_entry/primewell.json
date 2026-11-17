@@ -1,0 +1,45 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.primewell.title",
+  "column": 7,
+  "row": -5,
+  "icons": [
+    "forbidden:primewell"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.primewell.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.primewell.stage_1",
+      "recipes": [
+        "forbidden:arcane/primewell"
+      ]
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "thaumaturge:primordial_pearl"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:fabrico",
+      "amount": 1
+    }
+  ]
+}

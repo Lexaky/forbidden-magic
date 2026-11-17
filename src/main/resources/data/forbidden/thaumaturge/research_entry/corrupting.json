@@ -1,0 +1,46 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.corrupting.title",
+  "column": -1,
+  "row": -1,
+  "icons": [
+    "forbidden:textures/research/corrupting.png"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.corrupting.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.corrupting.stage_1",
+      "recipes": [
+        "forbidden:infusion/corrupting_book"
+      ]
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "forbidden:nether_shards",
+    "thaumaturge:infusion_enchantment"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "forbidden:infernus",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 1
+    }
+  ]
+}

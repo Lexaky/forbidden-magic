@@ -1,0 +1,32 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 32
+    },
+    {
+      "aspect": "forbidden:invidia",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 16
+    }
+  ],
+  "catalyst": "thaumaturge:thaumium_sword",
+  "components": [
+    "forbidden:envy_shard",
+    "forbidden:envy_shard",
+    "minecraft:diamond",
+    "thaumaturge:quicksilver",
+    "#thaumaturge:silverwood_logs"
+  ],
+  "instability": 6,
+  "research": {
+    "entry": "forbidden:morph_tools"
+  },
+  "result": {
+    "id": "forbidden:morph_sword"
+  }
+}

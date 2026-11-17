@@ -1,0 +1,47 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.wrath.title",
+  "column": -1,
+  "row": 0,
+  "icons": [
+    "forbidden:textures/research/wrath.png"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.wrath.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.wrath.stage_1",
+      "recipes": [
+        "forbidden:infusion/wrath_book"
+      ],
+      "warp": 3
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forbidden:nether_shards",
+    "thaumaturge:infusion_enchantment"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "forbidden:ira",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 20
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 10
+    }
+  ]
+}

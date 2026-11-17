@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:pickaxes",
+    "#minecraft:shovels",
+    {
+      "id": "thaumaturge:primal_crusher",
+      "required": false
+    }
+  ]
+}

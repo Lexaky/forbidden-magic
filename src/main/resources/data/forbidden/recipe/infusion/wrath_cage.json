@@ -1,0 +1,42 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "forbidden:ira",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:bestia",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:machina",
+      "amount": 16
+    }
+  ],
+  "catalyst": "thaumaturge:metal_thaumium",
+  "components": [
+    "forbidden:wrath_shard",
+    "forbidden:wrath_shard",
+    "forbidden:wrath_shard",
+    "forbidden:wrath_shard",
+    "minecraft:diamond",
+    "minecraft:diamond",
+    "minecraft:diamond",
+    "minecraft:diamond",
+    "thaumaturge:jar_normal",
+    "thaumaturge:jar_normal",
+    "thaumaturge:jar_normal"
+  ],
+  "instability": 10,
+  "research": {
+    "entry": "forbidden:wrath_cage"
+  },
+  "result": {
+    "id": "forbidden:wrath_cage"
+  }
+}

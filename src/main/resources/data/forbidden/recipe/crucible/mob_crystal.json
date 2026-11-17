@@ -1,0 +1,20 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 10
+    }
+  ],
+  "catalyst": "minecraft:diamond",
+  "research": {
+    "entry": "forbidden:wrath_cage"
+  },
+  "result": {
+    "id": "forbidden:mob_crystal"
+  }
+}

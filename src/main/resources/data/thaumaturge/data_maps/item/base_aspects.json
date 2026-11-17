@@ -1,0 +1,960 @@
+{
+  "values": {
+    "forbidden:wrath_shard": [
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 2
+      }
+    ],
+    "forbidden:envy_shard": [
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      },
+      {
+        "aspect": "forbidden:invidia",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 2
+      }
+    ],
+    "forbidden:taint_shard": [
+      {
+        "aspect": "thaumaturge:vitium",
+        "amount": 6
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 2
+      }
+    ],
+    "forbidden:pride_shard": [
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      },
+      {
+        "aspect": "forbidden:superbia",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 2
+      }
+    ],
+    "forbidden:lust_shard": [
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      },
+      {
+        "aspect": "forbidden:luxuria",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 2
+      }
+    ],
+    "forbidden:sloth_shard": [
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 2
+      }
+    ],
+    "forbidden:greed_shard": [
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      },
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 2
+      }
+    ],
+    "forbidden:gluttony_shard": [
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      },
+      {
+        "aspect": "forbidden:gula",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 2
+      }
+    ],
+    "forbidden:emerald_nugget": [
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 2
+      }
+    ],
+    "forbidden:black_ink": [
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 2
+      }
+    ],
+    "forbidden:riding_crop": [
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:fabrico",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 2
+      },
+      {
+        "aspect": "forbidden:luxuria",
+        "amount": 2
+      },
+      {
+        "aspect": "thaumaturge:aversio",
+        "amount": 2
+      }
+    ],
+    "forbidden:taint_fruit": [
+      {
+        "aspect": "thaumaturge:vitium",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:mortuus",
+        "amount": 2
+      }
+    ],
+    "forbidden:taint_coal": [
+      {
+        "aspect": "thaumaturge:vitium",
+        "amount": 4
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 4
+      }
+    ],
+    "forbidden:umbral_rose": [
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 2
+      },
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 2
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 2
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 2
+      }
+    ],
+    "forbidden:taint_leaves": [
+      {
+        "aspect": "thaumaturge:vitium",
+        "amount": 2
+      },
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 2
+      }
+    ],
+    "forbidden:taint_log": [
+      {
+        "aspect": "thaumaturge:vitium",
+        "amount": 2
+      },
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 6
+      }
+    ],
+    "forbidden:taint_planks": [
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 2
+      }
+    ],
+    "forbidden:taint_stone_bricks": [
+      {
+        "aspect": "thaumaturge:terra",
+        "amount": 2
+      }
+    ],
+    "minecraft:netherrack": [
+      {
+        "aspect": "thaumaturge:terra",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 2
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      }
+    ],
+    "minecraft:nether_quartz_ore": [
+      {
+        "aspect": "thaumaturge:terra",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 4
+      }
+    ],
+    "minecraft:nether_star": [
+      {
+        "aspect": "thaumaturge:alienis",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 20
+      },
+      {
+        "aspect": "thaumaturge:ordo",
+        "amount": 20
+      },
+      {
+        "aspect": "thaumaturge:auram",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 16
+      },
+      {
+        "aspect": "forbidden:superbia",
+        "amount": 16
+      }
+    ],
+    "minecraft:nether_wart": [
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:vitium",
+        "amount": 2
+      },
+      {
+        "aspect": "thaumaturge:alkimia",
+        "amount": 3
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      }
+    ],
+    "minecraft:nether_brick": [
+      {
+        "aspect": "thaumaturge:terra",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      }
+    ],
+    "minecraft:nether_bricks": [
+      {
+        "aspect": "thaumaturge:terra",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 3
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 4
+      }
+    ],
+    "minecraft:ghast_tear": [
+      {
+        "aspect": "thaumaturge:exanimis",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:spiritus",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:alkimia",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 8
+      }
+    ],
+    "minecraft:wither_skeleton_skull": [
+      {
+        "aspect": "thaumaturge:mortuus",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:spiritus",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 8
+      }
+    ],
+    "minecraft:creeper_head": [
+      {
+        "aspect": "thaumaturge:mortuus",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:spiritus",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 5
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 4
+      }
+    ],
+    "minecraft:tnt": [
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 37
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 52
+      },
+      {
+        "aspect": "thaumaturge:alkimia",
+        "amount": 18
+      },
+      {
+        "aspect": "thaumaturge:terra",
+        "amount": 15
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 4
+      }
+    ],
+    "minecraft:golden_helmet": [
+      {
+        "aspect": "thaumaturge:metallum",
+        "amount": 37
+      },
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 37
+      },
+      {
+        "aspect": "thaumaturge:praemunio",
+        "amount": 8
+      },
+      {
+        "aspect": "forbidden:superbia",
+        "amount": 4
+      }
+    ],
+    "minecraft:golden_chestplate": [
+      {
+        "aspect": "thaumaturge:metallum",
+        "amount": 60
+      },
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 60
+      },
+      {
+        "aspect": "thaumaturge:praemunio",
+        "amount": 20
+      },
+      {
+        "aspect": "forbidden:superbia",
+        "amount": 2
+      }
+    ],
+    "minecraft:golden_leggings": [
+      {
+        "aspect": "thaumaturge:metallum",
+        "amount": 52
+      },
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 52
+      },
+      {
+        "aspect": "thaumaturge:praemunio",
+        "amount": 12
+      },
+      {
+        "aspect": "forbidden:superbia",
+        "amount": 2
+      }
+    ],
+    "minecraft:golden_boots": [
+      {
+        "aspect": "thaumaturge:metallum",
+        "amount": 30
+      },
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 30
+      },
+      {
+        "aspect": "thaumaturge:praemunio",
+        "amount": 4
+      },
+      {
+        "aspect": "forbidden:superbia",
+        "amount": 2
+      }
+    ],
+    "minecraft:golden_sword": [
+      {
+        "aspect": "thaumaturge:metallum",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aversio",
+        "amount": 4
+      },
+      {
+        "aspect": "forbidden:superbia",
+        "amount": 4
+      }
+    ],
+    "minecraft:ender_eye": [
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 5
+      },
+      {
+        "aspect": "forbidden:invidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:comparator": [
+      {
+        "aspect": "thaumaturge:machina",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:ordo",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 5
+      },
+      {
+        "aspect": "forbidden:invidia",
+        "amount": 4
+      }
+    ],
+    "minecraft:cake": [
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 2
+      },
+      {
+        "aspect": "forbidden:gula",
+        "amount": 14
+      }
+    ],
+    "minecraft:cookie": [
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:gula",
+        "amount": 2
+      }
+    ],
+    "minecraft:fire_charge": [
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 5
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 2
+      }
+    ],
+    "minecraft:saddle": [
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:motus",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:ordo",
+        "amount": 5
+      },
+      {
+        "aspect": "forbidden:luxuria",
+        "amount": 4
+      }
+    ],
+    "minecraft:lead": [
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 9
+      },
+      {
+        "aspect": "thaumaturge:fabrico",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:luxuria",
+        "amount": 4
+      }
+    ],
+    "minecraft:white_bed": [
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:mortuus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:orange_bed": [
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:potentia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:terra",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:magenta_bed": [
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:light_blue_bed": [
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:yellow_bed": [
+      {
+        "aspect": "thaumaturge:terra",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:lime_bed": [
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:pink_bed": [
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:gray_bed": [
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:light_gray_bed": [
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:cyan_bed": [
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:purple_bed": [
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:potentia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:blue_bed": [
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:brown_bed": [
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:green_bed": [
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:red_bed": [
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:potentia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:black_bed": [
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 1
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 1
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 8
+      }
+    ]
+  }
+}

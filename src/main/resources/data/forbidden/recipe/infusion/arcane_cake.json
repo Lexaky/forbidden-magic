@@ -1,0 +1,33 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "forbidden:gula",
+      "amount": 12
+    },
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:fabrico",
+      "amount": 24
+    }
+  ],
+  "catalyst": "minecraft:cake",
+  "components": [
+    "thaumaturge:salis_mundus",
+    "minecraft:egg",
+    "minecraft:milk_bucket",
+    "minecraft:egg",
+    "forbidden:gluttony_shard",
+    "forbidden:gluttony_shard"
+  ],
+  "instability": 3,
+  "research": {
+    "entry": "forbidden:arcane_cake"
+  },
+  "result": {
+    "id": "forbidden:arcane_cake"
+  }
+}

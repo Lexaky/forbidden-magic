@@ -1,0 +1,45 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.crystalwell.title",
+  "column": 3,
+  "row": -5,
+  "icons": [
+    "forbidden:crystalwell"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.crystalwell.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.crystalwell.stage_1",
+      "recipes": [
+        "forbidden:arcane/crystalwell"
+      ]
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "thaumaturge:research"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 3
+    },
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 2
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 1
+    }
+  ]
+}

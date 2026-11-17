@@ -1,0 +1,20 @@
+{
+  "type": "thaumaturge:crucible",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:vitium",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:mortuus",
+      "amount": 4
+    }
+  ],
+  "catalyst": "minecraft:oak_sapling",
+  "research": {
+    "entry": "forbidden:taint_tree"
+  },
+  "result": {
+    "id": "forbidden:taint_sapling"
+  }
+}

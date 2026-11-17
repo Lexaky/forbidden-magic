@@ -1,0 +1,80 @@
+{
+  "textures": {
+    "particle": "forbidden:block/arcane_cake_side",
+    "bottom": "forbidden:block/arcane_cake_bottom",
+    "top": "forbidden:block/arcane_cake_top",
+    "side": "forbidden:block/arcane_cake_side",
+    "inner": "forbidden:block/arcane_cake_inner"
+  },
+  "elements": [
+    {
+      "from": [
+        6.8333,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        8,
+        15
+      ],
+      "faces": {
+        "down": {
+          "texture": "#bottom",
+          "uv": [
+            6.8333,
+            1,
+            15,
+            15
+          ],
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#top",
+          "uv": [
+            6.8333,
+            1,
+            15,
+            15
+          ]
+        },
+        "north": {
+          "texture": "#side",
+          "uv": [
+            1,
+            8,
+            9.166699999999999,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#side",
+          "uv": [
+            6.8333,
+            8,
+            15,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#inner",
+          "uv": [
+            1,
+            8,
+            15,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#side",
+          "uv": [
+            1,
+            8,
+            15,
+            16
+          ]
+        }
+      }
+    }
+  ]
+}

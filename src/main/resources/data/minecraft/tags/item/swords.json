@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "forbidden:skull_axe",
+    "forbidden:diabolist_fork",
+    "forbidden:morph_sword",
+    "forbidden:riding_crop"
+  ]
+}

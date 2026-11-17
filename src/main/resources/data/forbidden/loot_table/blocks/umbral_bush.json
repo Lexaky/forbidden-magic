@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "forbidden:umbral_bush",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "forbidden:umbral_bush",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "forbidden:blocks/umbral_bush"
+}

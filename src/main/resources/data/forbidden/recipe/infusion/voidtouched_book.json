@@ -1,0 +1,43 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 16
+    },
+    {
+      "aspect": "forbidden:invidia",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 16
+    }
+  ],
+  "catalyst": "minecraft:book",
+  "components": [
+    "thaumaturge:salis_mundus",
+    "thaumaturge:ingot_void",
+    "thaumaturge:ingot_void",
+    "thaumaturge:ingot_void",
+    "forbidden:envy_shard",
+    "forbidden:envy_shard",
+    "forbidden:envy_shard"
+  ],
+  "instability": 8,
+  "research": {
+    "entry": "forbidden:voidtouched"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "forbidden:voidtouched": 1
+      }
+    }
+  }
+}

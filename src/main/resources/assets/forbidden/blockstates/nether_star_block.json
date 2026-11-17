@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "forbidden:block/nether_star_block"
+    }
+  }
+}

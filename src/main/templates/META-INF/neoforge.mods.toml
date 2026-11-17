@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="${mod_license}"
+issueTrackerURL=""
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="SpitefulFox (original), port contributors"
+credits="Original Forbidden Magic by SpitefulFox, released under the WTFPL."
+description='''
+An unofficial port of Forbidden Magic to Thaumaturge: sinful aspects, deadly shards,
+infernal and tainted wand rods, morphic tools, the Wrath Cage and other dark artifacts.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    modId="thaumaturge"
+    type="required"
+    versionRange="${thaumaturge_version_range}"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    modId="curios"
+    type="required"
+    versionRange="[15.0.0-beta,)"
+    ordering="AFTER"
+    side="BOTH"

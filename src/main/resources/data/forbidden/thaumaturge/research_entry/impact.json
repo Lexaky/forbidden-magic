@@ -1,0 +1,46 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.impact.title",
+  "column": -4,
+  "row": 2,
+  "icons": [
+    "forbidden:textures/research/impact.png"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.impact.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.impact.stage_1",
+      "recipes": [
+        "forbidden:infusion/impact_book"
+      ]
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forbidden:morph_tools",
+    "thaumaturge:elemental_tools"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 10
+    },
+    {
+      "aspect": "forbidden:invidia",
+      "amount": 10
+    }
+  ]
+}

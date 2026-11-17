@@ -1,0 +1,41 @@
+{
+  "type": "thaumaturge:arcane_workbench_shapeless",
+  "crystals": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 1
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 1
+    }
+  ],
+  "ingredients": [
+    "minecraft:feather",
+    "thaumaturge:primordial_pearl",
+    "minecraft:glass_bottle"
+  ],
+  "research": {
+    "entry": "forbidden:primewell"
+  },
+  "result": {
+    "id": "forbidden:primewell"
+  },
+  "vis": 300
+}

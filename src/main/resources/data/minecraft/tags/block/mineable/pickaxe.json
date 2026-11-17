@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "forbidden:wrath_cage",
+    "forbidden:taint_stone",
+    "forbidden:taint_stone_bricks",
+    "forbidden:nether_star_block"
+  ]
+}

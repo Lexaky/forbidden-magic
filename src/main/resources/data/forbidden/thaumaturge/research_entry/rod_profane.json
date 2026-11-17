@@ -1,0 +1,22 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.rod_profane.title",
+  "column": -4,
+  "row": -5,
+  "icons": [
+    "forbidden:wand_rod_profane"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.rod_profane.stage_0"
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "forbidden:nether_shards"
+  ],
+  "meta": [
+    "hidden",
+    "round"
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "values": {
+    "thaumaturge:brainy_zombie": [
+      {
+        "aspect": "thaumaturge:exanimis",
+        "amount": 20
+      },
+      {
+        "aspect": "thaumaturge:humanus",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:aversio",
+        "amount": 5
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 6
+      }
+    ],
+    "thaumaturge:giant_brainy_zombie": [
+      {
+        "aspect": "thaumaturge:exanimis",
+        "amount": 25
+      },
+      {
+        "aspect": "thaumaturge:humanus",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:aversio",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 8
+      }
+    ],
+    "thaumaturge:firebat": [
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:volatus",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 2
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 4
+      }
+    ],
+    "minecraft:wither_skeleton": [
+      {
+        "aspect": "thaumaturge:exanimis",
+        "amount": 25
+      },
+      {
+        "aspect": "thaumaturge:humanus",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 6
+      }
+    ],
+    "minecraft:creeper": [
+      {
+        "aspect": "thaumaturge:herba",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 15
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 4
+      }
+    ],
+    "minecraft:wither": [
+      {
+        "aspect": "thaumaturge:exanimis",
+        "amount": 50
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 25
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 25
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 14
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 14
+      }
+    ],
+    "minecraft:ocelot": [
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:desidia",
+        "amount": 6
+      }
+    ],
+    "minecraft:enderman": [
+      {
+        "aspect": "thaumaturge:alienis",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:motus",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 5
+      },
+      {
+        "aspect": "forbidden:superbia",
+        "amount": 8
+      },
+      {
+        "aspect": "forbidden:invidia",
+        "amount": 8
+      }
+    ],
+    "minecraft:ghast": [
+      {
+        "aspect": "thaumaturge:exanimis",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 15
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 6
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 6
+      }
+    ],
+    "minecraft:zombified_piglin": [
+      {
+        "aspect": "thaumaturge:exanimis",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:ira",
+        "amount": 12
+      }
+    ],
+    "minecraft:ender_dragon": [
+      {
+        "aspect": "thaumaturge:alienis",
+        "amount": 50
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 30
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 50
+      },
+      {
+        "aspect": "thaumaturge:volatus",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:superbia",
+        "amount": 20
+      }
+    ],
+    "thaumaturge:taintacle": [
+      {
+        "aspect": "thaumaturge:vitium",
+        "amount": 15
+      },
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 10
+      },
+      {
+        "aspect": "forbidden:luxuria",
+        "amount": 6
+      }
+    ],
+    "minecraft:pig": [
+      {
+        "aspect": "thaumaturge:bestia",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:terra",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:desiderium",
+        "amount": 5
+      },
+      {
+        "aspect": "forbidden:gula",
+        "amount": 6
+      }
+    ],
+    "minecraft:magma_cube": [
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 5
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 10
+      },
+      {
+        "aspect": "thaumaturge:alkimia",
+        "amount": 5
+      },
+      {
+        "aspect": "forbidden:infernus",
+        "amount": 2
+      }
+    ]
+  }
+}

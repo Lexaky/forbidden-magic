@@ -1,0 +1,48 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.skull_axe.title",
+  "column": -6,
+  "row": -4,
+  "icons": [
+    "forbidden:skull_axe"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.skull_axe.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forbidden:forbidden",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forbidden.skull_axe.stage_1",
+      "recipes": [
+        "forbidden:infusion/skull_axe"
+      ],
+      "warp": 1
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forbidden:nether_shards",
+    "thaumaturge:metallurgy",
+    "thaumaturge:infusion"
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 3
+    },
+    {
+      "aspect": "forbidden:ira",
+      "amount": 4
+    },
+    {
+      "aspect": "forbidden:infernus",
+      "amount": 1
+    }
+  ]
+}

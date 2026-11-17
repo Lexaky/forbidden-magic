@@ -1,0 +1,34 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:metallum",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 4
+    }
+  ],
+  "catalyst": "minecraft:book",
+  "components": [
+    "thaumaturge:elemental_pickaxe",
+    "thaumaturge:salis_mundus"
+  ],
+  "instability": 3,
+  "research": {
+    "entry": "forbidden:fiery_core"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "forbidden:fiery_core": 1
+      }
+    }
+  }
+}

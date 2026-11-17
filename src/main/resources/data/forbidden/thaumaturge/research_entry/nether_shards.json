@@ -1,0 +1,19 @@
+{
+  "category": "forbidden:forbidden",
+  "name": "research.forbidden.nether_shards.title",
+  "column": -3,
+  "row": -2,
+  "icons": [
+    "forbidden:wrath_shard"
+  ],
+  "stages": [
+    {
+      "text": "research.forbidden.nether_shards.stage_0"
+    }
+  ],
+  "complexity": 1,
+  "meta": [
+    "autounlock",
+    "round"
+  ]
+}

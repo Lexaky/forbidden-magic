@@ -1,0 +1,34 @@
+{
+  "type": "thaumaturge:infusion",
+  "aspects": [
+    {
+      "aspect": "thaumaturge:vitium",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 12
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 12
+    }
+  ],
+  "catalyst": "thaumaturge:taint_tendril",
+  "components": [
+    "thaumaturge:salis_mundus",
+    "forbidden:taint_shard",
+    "forbidden:taint_shard",
+    "forbidden:taint_shard",
+    "forbidden:taint_shard",
+    "forbidden:taint_shard",
+    "forbidden:taint_shard"
+  ],
+  "instability": 5,
+  "research": {
+    "entry": "forbidden:rod_tainted"
+  },
+  "result": {
+    "id": "forbidden:wand_rod_tainted"
+  }
+}
